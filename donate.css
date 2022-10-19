@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    overflow-x: hidden;
+}
+.first{
+    height: 100vh;
+    width: 100vw;
+    border: 2ps solid black;
+    background-image: url(https://th.bing.com/th/id/OIP.l6_mtdZ7qfkXBnGIzWc_YQHaDt?pid=ImgDet&rs=1);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.89;
+}
+.sec{
+    background-color:rgb(168, 168, 168);
+    background-color:rgba(111, 112, 112, 0.2);
+    width: 55%;
+    height: 40%;
+    margin: 10vh auto 5vh;
+    text-align: center;
+    padding: 2%;
+    padding-bottom: 1%;
+}
+.sec p{
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 20px;
+    color :rgb(0, 0, 0);
+    font-weight: lighter;
+}
+.sec form{
+    margin: 5vh;
+}
